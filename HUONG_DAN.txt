@@ -1,0 +1,18 @@
+AUTO TRAIN 3SKILL V2 - CHIEN QUOC 2D AEGIS V25
+
+1. Giai nen ZIP nay tren may tinh.
+2. Vao GitHub repository > Add file > Upload files.
+3. Tai file AutoTrain_3Skill_Aegis_V25.py va thu muc .github/workflows/build.yml len GitHub.
+   Luu y: GitHub web khong hien thu muc an .github trong Windows neu chua bat hien file an.
+   Cach de nhat: GitHub > Add file > Create new file > nhap .github/workflows/build.yml
+   roi sao chep noi dung build.yml tu thu muc giai nen vao.
+4. Commit changes.
+5. Vao Actions > Build Auto Train 3Skill EXE > Run workflow (main).
+6. Khi Success, tai ZIP tai muc Artifacts, giai nen de lay EXE.
+
+Cach su dung:
+- Ten cua so game chua: Chien Quoc 2D
+- Skill 1, 2, 3; Tab chon quai; Space nhat do; F8 bat/tat.
+- Chi gui phim khi game la cua so dang duoc chon.
+- Khong co nhan dien quai, do roi hay trang thai quai; chi lap phim theo thoi gian.
+- Chi su dung neu duoc phep theo quy dinh may chu game.
